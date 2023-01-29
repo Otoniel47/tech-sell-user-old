@@ -147,3 +147,7 @@ Tech-sell-user/.vs/Tech-sell-user/FileContentIndex/fa286651-b9c7-4d1e-90c0-f1a72
 Tech-sell-user/.vs/Tech-sell-user/FileContentIndex/dbd095c4-0a14-4be1-a4e7-4730bdd42e1f.vsidx
 Tech-sell-user/.vs/Tech-sell-user/FileContentIndex/b994f636-b845-4baf-b361-f745a279bcc6.vsidx
 Tech-sell-user/.vs/Tech-sell-user/FileContentIndex/6ccebb08-5b1a-4a4e-b6c0-7c83dfd76422.vsidx
+*.CopyComplete
+Tech-sell-user/Tech-sell-user.sln
+Tech-sell-user/05 - IoC/Tech-sell-user.IoC/Tech-sell-user.IoC.csproj
+Tech-sell-user/05 - IoC/Tech-sell-user.IoC/obj/Debug/net7.0/Tech-sell-user.IoC.genruntimeconfig.cache
