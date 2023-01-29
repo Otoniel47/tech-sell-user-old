@@ -17,11 +17,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - IoC", "05 - IoC", "{EB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tech-sell-user.Domain", "02 - Domain\Tech-sell-user.Domain\Tech-sell-user.Domain.csproj", "{A364D072-E77F-4CCB-AC8D-C94BB19128EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tech-sell-user.Application", "03 - Application\Tech-sell-user.Application\Tech-sell-user.Application.csproj", "{1C69EC3D-0D11-4D19-A667-B8E1996FC1D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tech-sell-user.Application", "03 - Application\Tech-sell-user.Application\Tech-sell-user.Application.csproj", "{1C69EC3D-0D11-4D19-A667-B8E1996FC1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tech-sell-user.Database", " 04 - Database\Tech-sell-user.Database\Tech-sell-user.Database.csproj", "{3FF8828B-BCA4-4092-96DA-7001CAFFE095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tech-sell-user.Database", "04 - Database\Tech-sell-user.Database\Tech-sell-user.Database.csproj", "{3FF8828B-BCA4-4092-96DA-7001CAFFE095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tech-sell-user.IoC", "05 - IoC\Tech-sell-user.IoC\Tech-sell-user.IoC.csproj", "{782EBB3F-A6A2-4A43-9EAB-4B4BF3A48764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tech-sell-user.IoC", "05 - IoC\Tech-sell-user.IoC\Tech-sell-user.IoC.csproj", "{782EBB3F-A6A2-4A43-9EAB-4B4BF3A48764}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
